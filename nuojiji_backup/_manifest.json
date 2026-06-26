@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782467779164,
+  "timestamp": 1782467784212,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -69,7 +69,8 @@
     "stickers": true,
     "kaomojis": true,
     "customWidgetState": true,
-    "wallpapers": true
+    "wallpapers": true,
+    "whiteDogData": true
   },
   "source": "auto",
   "inProgress": true
